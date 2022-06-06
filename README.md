@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torresfer&color=yellow" alt="Profile views" /> </p>
 
-My name is Fernando Torres, I am student of Business Administration at UNICAMP (4/4) and Web Developer.
+My name is Fernando Torres, I am Business Administration student at UNICAMP (4/4) and Web Developer.
 
 - 🔥 Junior Web Developer
 
