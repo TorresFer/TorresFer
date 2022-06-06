@@ -31,6 +31,6 @@ Meu nome é Fernando Torres, sou estudante de Administração pela UNICAMP (4/4)
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torresfer&langs_count=8)]" alt="torresfer stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresfer&langs_count=8" alt="torresfer stats"/>
 </p>
 
