@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torresfer&color=yellow" alt="Profile views" /> </p>
 
-Meu nome é Fernando Torres, sou estudante de Administração pela UNICAMP (4/4) e entusiasta da área de Tecnologia.
+My name is Fernando Torres, I am student of Business Administration at UNICAMP (4/4) and Web Developer.
 
 - 🔥 Junior Web Developer
 
@@ -31,6 +31,6 @@ Meu nome é Fernando Torres, sou estudante de Administração pela UNICAMP (4/4)
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresfer&langs_count=8" alt="torresfer stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresfer&langs_count=8&theme=vision-friendly-dark" alt="torresfer stats"/>
 </p>
 
