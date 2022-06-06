@@ -15,7 +15,6 @@ My name is Fernando Torres, I am student of Business Administration at UNICAMP (
 - ⚡ Fun fact **Soccer fanatic**
 
 <br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,7 +26,6 @@ My name is Fernando Torres, I am student of Business Administration at UNICAMP (
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br><br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
