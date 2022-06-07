@@ -6,8 +6,6 @@ My name is Fernando Torres, I am Business Administration student at UNICAMP (4/4
 
 - 🔥 Junior Web Developer
 
-- 🔭 I’m currently working at Kenlo
-
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
 
 - 🌱 Here I share my studies and projects focused on Web Development with ReactJS
