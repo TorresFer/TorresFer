@@ -4,19 +4,18 @@
 
 My name is Fernando Torres, I am Business Administration student at UNICAMP (4/4) and Front-end Developer.
 
-- 🔥 Junior Web Developer
+- 🔥 Junior Front-end Developer
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
 
 - 🌱 Here I share my studies and projects focused on Web Development with ReactJS
-
-- ⚡ Fun fact **Soccer fanatic**
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logo=sass)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
