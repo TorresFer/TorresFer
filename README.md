@@ -21,11 +21,6 @@ My name is Fernando Torres, I am Business Administration student at UNICAMP (4/4
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🛠 &nbsp;Improving and Learning
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
