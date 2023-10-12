@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torresfer&color=yellow" alt="Profile views" /> </p>
 
-My name is Fernando Torres, I am Business Administration student at UNICAMP (4/4) and programming student.
+My name is Fernando Torres, I am Business Administration student at UNICAMP and Programming/Support student.
 
 - 🔥 Junior
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React.JS**
 
-- 🌱 Here I share my studies and projects focused on Web Development with Javascript and the Library ReactJS
+- 🌱 Here I share my studies and projects focused on Web Development and Applications Support.
 
 ## 🛠 &nbsp;Tech Stack
 
